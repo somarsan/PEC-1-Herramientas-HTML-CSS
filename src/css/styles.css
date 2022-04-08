@@ -1,0 +1,626 @@
+/* Fuente para títulos:  */
+
+@font-face {
+  font-family: 'Alte-Haas-Grotesk-Bold';
+  src:url('../fonts/Alte-Haas-Grotesk-Bold.ttf.woff') format('woff'),
+      url('../fonts/Alte-Haas-Grotesk-Bold.ttf.svg#Alte-Haas-Grotesk-Bold') format('svg'),
+      url('../fonts/Alte-Haas-Grotesk-Bold.ttf.eot'),
+      url('../fonts/Alte-Haas-Grotesk-Bold.ttf.eot?#iefix') format('embedded-opentype'); 
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Variables de colores:  */
+:root {
+    --texto-color: rgb(0,0,0);
+    --texto-color-secundario: rgb(255, 255, 255);
+    --contraste-color: #E7D147; 
+  }
+
+/* Reset de margins y paddings */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; 
+}
+
+/* Bloques principales: */
+
+html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+
+h1 { 
+  font-family: 'Alte-Haas-Grotesk-Bold';
+  padding: 20px 0 20px 0;
+} 
+
+h2 {
+  font-family: 'Alte-Haas-Grotesk-Bold';
+  text-align: center;
+}
+
+header {
+  background-color: black;
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.titulo_web {
+  font-size: 2rem;
+  font-family: 'Alte-Haas-Grotesk-Bold';
+  text-transform: uppercase;
+  color: var(--texto-color-secundario);
+}
+
+a {
+  color: var(--texto-color-secundario);
+  text-decoration:none;
+}
+
+a:hover {
+  color: var(--contraste-color);
+  text-decoration:none;
+}
+
+.contenedor p {
+  line-height: 1.5;
+  padding-bottom: 15px;
+  text-align: justify;
+}
+
+.lazyload,
+.lazyloading {
+	opacity: 0;
+}
+.lazyloaded {
+	opacity: 1;
+	transition: opacity 600ms;
+}
+
+.videos figure {
+  padding-bottom: 15px;
+  width: 100%;
+}
+
+.videos {
+  padding: 20px 0 20px 0;
+  width: 100%;
+}
+
+.videos iframe {
+  display:block;
+  margin: auto;
+  border: 0;
+  max-width: 100%;
+}
+
+.fuente {
+  padding: 40px 0 0 0;
+}
+
+.fuente a {
+  color: var(--texto-color);
+  text-decoration: underline;
+}
+
+.fuente a:hover {
+  color: var(--contraste-color);
+  text-decoration: underline;
+}
+
+.fuente p {
+  padding-bottom: 0;
+}
+
+footer {
+  background-color: black;
+}
+
+footer ul {
+  list-style: none;
+}
+
+footer .autoria p {
+  text-align: center;
+
+  color: var(--texto-color-secundario);
+}
+
+@media (min-width: 280px) {
+  .contenedor{
+    width: 95%;
+    margin: auto;
+    padding-bottom: 50px;
+  }
+
+  header {
+    padding-bottom: 10px;
+  }
+
+  .titulo_web{
+    text-align: center;
+    padding: 10px 0 10px 0;
+  }
+
+  header .menu ul{
+    list-style: none;
+  }
+
+  header .menu ul li{
+    text-align: center;
+    font-family: 'Alte-Haas-Grotesk-Bold';
+    padding-bottom: 5px;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .contenedor_footer{
+    width: 65%;
+    margin: auto;
+    padding: 20px 0 50px 0;
+  }
+
+  footer ul {
+    text-align: center;
+    margin: auto;
+  }
+
+  footer ul li {
+    margin-right: 5px;
+    font-family: 'Alte-Haas-Grotesk-Bold';
+    padding-top: 5px;
+  }
+
+  footer .redes{
+    display: flex;
+    justify-content: center;
+  }
+
+  footer .redes li {
+    padding-top: 30px;
+  }
+
+  footer .autoria {
+    font-size: 0.7rem;
+    padding-top: 40px;
+  }
+}
+
+@media (min-width: 700px) {
+  .contenedor{
+    width: 70%;
+    margin: auto;
+    padding-bottom: 50px;
+  }
+
+  header {
+    display: flex;
+    padding-bottom: 0;
+  }
+
+  .contenedor_header{
+    width: 90%;
+    margin: auto;
+    align-items: center;
+  }
+
+  .titulo_web{
+    padding: 20px 0 20px 0;
+    float: left;
+  }
+
+  header .menu ul{
+    list-style: none;
+    float: right;
+    display: flex;
+    padding: 30px 0 30px 0;
+  }
+
+  header .menu ul li{
+    margin-left: 60px;
+    font-family: 'Alte-Haas-Grotesk-Bold';
+    padding-bottom: 0;
+  }
+
+  img {
+    max-width: 50%;
+    height: auto;
+  }
+
+  footer {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .contenedor_footer{
+    width: 90%;
+    margin: auto;
+    padding: 30px 0 50px 0;
+  }
+
+  footer ul {
+    display: flex;
+    float: left;
+  }
+
+  footer ul li {
+    margin-right: 40px;
+    font-family: 'Alte-Haas-Grotesk-Bold';
+    padding-top: 10px;
+  }
+
+  footer .redes {
+    float: right;
+    font-size: 1.8rem;
+  }
+
+  footer .redes li {
+    margin-right: 0;
+    margin-left: 10px;
+    padding-top: 0;
+  }
+
+  footer .autoria {
+    display: inline-block;
+    font-size: 0.8rem;
+    width: 100%;
+    padding-top: 100px;
+  }
+}
+
+
+
+/*Página index.html*/
+
+
+.contenedor_portada {
+  margin: auto;
+  background-image: url(../img/rigoberta-portada-home.jpg);
+  background-size: cover;
+  position: relative;
+}
+
+.contenedor_portada .copyright p {
+  width: 100%;
+  font-size: 0.7rem;
+  text-align: right;
+  position: absolute;
+  bottom: 5px;
+  right: 10px;
+}
+
+@media (min-width: 280px) {
+  .contenedor_portada {
+    height: 40vh;
+  }
+  .contenedor_portada p {
+    font-size: 1rem;
+    font-weight: 500;
+    position: absolute;
+    bottom: 15px;
+    padding-left: 10px;
+  }
+  .contenedor_portada .copyright p {
+    width: 95%;
+  }
+}
+
+@media (min-width: 700px) {
+  .contenedor_portada {
+    width: 100%;
+    height: 90vh;
+  }
+
+  .contenedor_portada p {
+    width: 40%;
+    font-size: calc(2.2rem + 1vw);
+    font-weight: 500;
+    position: absolute;
+    bottom: 80px;
+    right: 80px;
+    padding-left: 0;
+  }
+}
+
+
+/*Página presentacion.html*/
+
+
+.contenedor_presentacion {
+  margin: auto;
+  background-image: url(../img/rigoberta-presentacion.jpg);
+  background-size: cover;
+  position: relative;
+}
+
+@media (min-width: 280px) {
+  .contenedor_presentacion {
+    height: 30vh;
+  }
+} 
+
+@media (min-width: 700px) {
+  .contenedor_presentacion {
+    height: 90vh;
+  }
+
+  #foto_concierto {
+    max-width: 100%;
+  }
+
+  .contenedor_foto_concierto {
+    width: 60%;
+    margin: auto;
+    padding: 15px 0 10px 0;
+  }
+}
+
+.contenedor_presentacion .copyright p {
+  font-size: 0.7rem;
+  text-align: right;
+  position: absolute;
+  bottom: 5px;
+  right: 10px;
+}
+
+.contenedor .copyright p {
+  font-size: 0.7rem;
+  text-align: left;
+}
+
+
+/*Página discografía.html*/
+
+
+.discografia {
+  text-align: center;
+  background-color: #E7D147;
+}
+
+.fecha {
+  font-family: 'Alte-Haas-Grotesk-Bold';
+  font-size: 1.2rem;
+  padding: 30px 0 10px 0;
+}
+
+.lista_discografia{
+  padding: 0 0 0 40px;
+  line-height: 2;
+  list-style: none;
+  border-left: 4px solid #E7D147;
+}
+
+.lista_discografia a {
+  color: var(--texto-color);
+  text-decoration: underline;
+}
+
+.lista_discografia a:hover{
+  color: var(--contraste-color);
+  text-decoration: underline;
+}
+
+@media (min-width: 280px) {
+  .contenedor_lista_discografia {
+    width: 60%;
+    margin: auto;
+    padding-bottom: 50px;
+  }
+} 
+
+@media (min-width: 700px) {
+  .contenedor_lista_discografia {
+    width: 30%;
+    margin: auto;
+    padding-bottom: 50px;
+  }
+}
+
+
+/*Página detalle.html*/
+
+
+.singles ul {
+  line-height: 2;
+  list-style: none;
+  font-weight: 500;
+}
+
+#discografia ul {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  text-transform: none;
+}
+
+@media (min-width: 280px) {
+  .singles > ul:first-child{
+    font-family: 'Alte-Haas-Grotesk-Bold';
+    text-transform: none;
+  }
+  
+  .contenedor_single {
+    margin: auto;
+    display: block;
+    width: 95%;
+  }
+
+  .singles {
+    padding: 15px 0 0 0;
+    margin: auto;
+    text-align: left;
+  }
+
+  #discografia a {
+    text-decoration:none;
+    border: 1px solid black;
+    color: var(--texto-color);
+    display:block;
+    padding-left: 10px;
+  }
+
+  #discografia a:hover {
+    background-color: #E7D147;
+  }
+
+  #discografia ul {
+    display: none;
+    font-size: 0.8rem;
+  }
+
+  #discografia:hover ul {
+    display: block;
+  }
+
+  #discografia ul li a:hover{
+    font-weight: 600;
+  }
+
+  .fas {
+    text-align: right;
+  }
+
+  .detalle {
+    width: 100%;
+    padding-bottom: 50px;
+  }
+} 
+
+@media (min-width: 700px) {
+  .singles > ul:first-child{
+    font-family: 'Alte-Haas-Grotesk-Bold';
+    text-transform: uppercase;
+  }
+  
+  .contenedor_single {
+    display: flex;
+    width: 90%;
+    margin: auto;
+  }
+
+  .singles {
+    width: 30%;
+    padding: 25px 0 0 0;
+    margin: 0;
+    text-align: left;
+  }
+
+  .singles ul {
+    position: sticky;
+    top: 105px;
+    left: 0;
+  }
+
+  .cancion {
+    font-weight: 600;
+    border-left: 4px solid #E7D147;
+    padding-left: 10px;
+  }
+
+  #discografia a {
+    text-decoration:none;
+    border: none;
+    color: var(--texto-color);
+    text-decoration:none;
+    padding: 0;
+    display:block;
+  }
+
+  #discografia a:hover {
+    background-color: white;
+  }
+
+  #discografia ul li a {
+    color: var(--texto-color);
+  }
+  
+  #discografia ul li a:hover{
+    color: var(--contraste-color);
+    text-decoration: underline;
+  }
+
+  #discografia ul {
+    display: block;
+    font-size: 1rem;
+    padding-top: 10px;
+  }
+
+  .fas {
+    color:white;
+  }
+
+  .detalle {
+    width: 70%;
+    padding-bottom: 50px;
+  }
+}
+
+.detalle p {
+  line-height: 1.5;
+  padding-bottom: 15px;
+  text-align: justify;
+}
+
+.contenedor_single .copyright p {
+  font-size: 0.7rem;
+  text-align: left;
+}
+
+.vinilo {
+  padding-bottom: 30px;
+}
+
+button {
+  background-color: var(--contraste-color);
+  color: var(--texto-color);
+  padding: 10px 20px 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-family: 'Alte-Haas-Grotesk-Bold';
+  font-size: 1.2rem;
+}
+
+button:hover{
+  background-color: var(--texto-color);
+  border-color:var(--texto-color);
+  color: var(--texto-color-secundario);
+}
+
+.creditos {
+  list-style: none;
+  text-align: center;
+  line-height: 1.5;
+  padding-top: 15px;
+}
+
+
+/*Página fuentes.html*/
+
+
+dt {
+  font-weight: 600;
+  padding-bottom: 8px;
+}
+
+dd {
+  padding: 0 0 25px 18px;
+  line-height: 1.5;
+}
+
+dd a {
+  color: var(--texto-color);
+  text-decoration: underline;
+}
+
+dd a:hover{
+  color: var(--contraste-color);
+  text-decoration: underline;
+}

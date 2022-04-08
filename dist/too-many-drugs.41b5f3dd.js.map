@@ -1,0 +1,1 @@
+{"mappings":"SAASA,QACLC,MAAM","sources":["src/js/app.js"],"sourcesContent":["function aviso() {\r\n    alert(\"El vinilo no está disponible en estos momentos.\");\r\n}"],"names":["aviso","alert"],"version":3,"file":"too-many-drugs.41b5f3dd.js.map"}
