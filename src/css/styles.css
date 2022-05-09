@@ -52,10 +52,29 @@ header {
 }
 
 .titulo_web {
+  display: flex;
+  align-items: center;
   font-size: 2rem;
   font-family: 'Alte-Haas-Grotesk-Bold';
   text-transform: uppercase;
-  color: var(--texto-color-secundario);
+  color: var(--texto-color-secundario); 
+}
+
+.titulo_web a {
+  width: 50px;
+}
+
+.titulo_web .logo {
+  float:left;
+  max-width: 100%;
+}
+
+.titulo_web p {
+  margin-left: 15px;
+}
+
+.contenedor_header a {
+  transition: color 0.5s ease-out;
 }
 
 a {
@@ -122,13 +141,16 @@ footer {
   background-color: black;
 }
 
+footer .logo {
+  width: 40px;
+}
+
 footer ul {
   list-style: none;
 }
 
 footer .autoria p {
   text-align: center;
-
   color: var(--texto-color-secundario);
 }
 
@@ -145,7 +167,16 @@ footer .autoria p {
 
   .titulo_web{
     text-align: center;
-    padding: 10px 0 10px 0;
+    justify-content: center;
+    padding: 5px 0 5px 0;
+  }
+
+  .titulo_web a {
+    width: 60px;
+  }
+
+  .titulo_web p {
+    font-size: calc(1.5rem + 1vw);
   }
 
   header .menu ul{
@@ -159,14 +190,18 @@ footer .autoria p {
   }
 
   img {
-    max-width: 100%;
-    height: auto;
+    width: 100%;
   }
 
   .contenedor_footer{
     width: 65%;
     margin: auto;
     padding: 20px 0 50px 0;
+  }
+
+  .contenedor_footer a .logo {
+    display: block;
+    margin: auto;
   }
 
   footer ul {
@@ -195,7 +230,7 @@ footer .autoria p {
   }
 }
 
-@media (min-width: 700px) {
+@media (min-width: 650px) {
   .contenedor{
     width: 70%;
     margin: auto;
@@ -218,11 +253,15 @@ footer .autoria p {
     float: left;
   }
 
+  .titulo_web img{
+    width: 100%;
+  }
+
   header .menu ul{
     list-style: none;
     float: right;
     display: flex;
-    padding: 30px 0 30px 0;
+    padding: 40px 0 40px 0;
   }
 
   header .menu ul li{
@@ -232,8 +271,7 @@ footer .autoria p {
   }
 
   img {
-    max-width: 50%;
-    height: auto;
+    width: 50%;
   }
 
   footer {
@@ -247,9 +285,14 @@ footer .autoria p {
     padding: 30px 0 50px 0;
   }
 
+  footer .logo {
+    float:left;
+  }
+
   footer ul {
     display: flex;
     float: left;
+    margin-left: 30px;
   }
 
   footer ul li {
@@ -284,8 +327,6 @@ footer .autoria p {
 
 .contenedor_portada {
   margin: auto;
-  background-image: url(../img/rigoberta-portada-home.jpg);
-  background-size: cover;
   position: relative;
 }
 
@@ -299,35 +340,47 @@ footer .autoria p {
 }
 
 @media (min-width: 280px) {
-  .contenedor_portada {
-    height: 40vh;
+  .contenedor_portada{
+    width: 100%;
+    height: auto;
   }
   .contenedor_portada p {
-    font-size: 1rem;
+    font-size: calc(0.8rem + 1vw);
     font-weight: 500;
     position: absolute;
-    bottom: 15px;
+    bottom: 10px;
     padding-left: 10px;
   }
   .contenedor_portada .copyright p {
     width: 95%;
   }
+  .contenedor_portada picture img {
+    clip-path: polygon(0 0, 90% 0%, 100% 75%, 0 85%);
+    width: 100%;
+    height: auto;
+  }
 }
 
-@media (min-width: 700px) {
+@media (min-width: 650px) {
   .contenedor_portada {
     width: 100%;
-    height: 90vh;
+    height: auto;
   }
 
   .contenedor_portada p {
-    width: 40%;
+    width: 42%;
     font-size: calc(2.2rem + 1vw);
     font-weight: 500;
     position: absolute;
-    bottom: 80px;
-    right: 80px;
+    bottom: 150px;
+    right: 45px;
     padding-left: 0;
+  }
+
+  .contenedor_portada picture img {
+    clip-path: polygon(0 0, 61% 0, 95% 75%, 0% 100%);
+    width: 100%;
+    height: auto;
   }
 }
 
@@ -337,24 +390,18 @@ footer .autoria p {
 
 .contenedor_presentacion {
   margin: auto;
-  background-image: url(../img/rigoberta-presentacion.jpg);
-  background-size: cover;
   position: relative;
 }
 
-@media (min-width: 280px) {
-  .contenedor_presentacion {
-    height: 30vh;
-  }
-} 
+.contenedor_presentacion img{
+  width: 100%;
+  height: auto;
+}
 
-@media (min-width: 700px) {
-  .contenedor_presentacion {
-    height: 90vh;
-  }
 
+@media (min-width: 650px) {
   #foto_concierto {
-    max-width: 100%;
+    width: 100%;
   }
 
   .contenedor_foto_concierto {
@@ -368,7 +415,7 @@ footer .autoria p {
   font-size: 0.7rem;
   text-align: right;
   position: absolute;
-  bottom: 5px;
+  bottom: 10px;
   right: 10px;
 }
 
@@ -377,6 +424,63 @@ footer .autoria p {
   text-align: left;
 }
 
+svg{
+  transform: scale(0.5);
+}
+
+svg .teta1 {
+  stroke-dasharray: 320;
+  stroke-dashoffset: 0;
+  animation: crear 1s ease-in-out none infinite alternate;
+}
+
+svg .teta1:hover{
+  animation: desaparecer 1s ease-out;
+  transform-origin: center;
+}
+
+svg .teta2 {
+  stroke-dasharray: 100;
+  stroke-dashoffset: 0;
+  animation: crear 2s ease-in-out 0.5s infinite alternate;
+}
+
+svg .teta2:hover{
+  animation: desaparecer 1s ease-out;
+  transform-origin: center;
+}
+
+svg .teta3 {
+  stroke-dasharray: 320;
+  stroke-dashoffset: 0;
+  animation: crear 1.5s ease-in-out none infinite alternate;
+}
+
+svg .teta3:hover{
+  animation: desaparecer 1s ease-out;
+  transform-origin: center;
+}
+
+@keyframes crear {
+  from {
+    stroke-dashoffset: 320;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes desaparecer {
+  0%{
+    opacity: 100%;
+    transform: scale(1);
+  }
+
+  100%{
+    opacity: 0%;
+    transform: scale(1.2);
+  }
+}
 
 /*Página discografía.html*/
 
@@ -409,17 +513,22 @@ footer .autoria p {
   text-decoration: underline;
 }
 
+.lista_discografia img{
+  width: 25%;
+  padding: 10px 10px 0 0;
+}
+
 @media (min-width: 280px) {
   .contenedor_lista_discografia {
-    width: 60%;
+    width: 75%;
     margin: auto;
     padding-bottom: 50px;
   }
 } 
 
-@media (min-width: 700px) {
+@media (min-width: 650px) {
   .contenedor_lista_discografia {
-    width: 30%;
+    width: 40%;
     margin: auto;
     padding-bottom: 50px;
   }
@@ -440,6 +549,25 @@ footer .autoria p {
   font-weight: 400;
   text-transform: none;
 }
+
+.imagenes_videoclips {
+  display: flex;
+}
+
+.imagenes_videoclips img {
+  width: 50%;
+  padding-bottom: 5px;
+}
+
+.imagenes_videoclips img:first-child {
+  padding-right: 10px;
+}
+
+.detalle .copyright_videoclip p{
+  font-size: 0.7rem;
+  text-align: right;
+}
+
 
 @media (min-width: 280px) {
   .singles > ul:first-child{
@@ -494,7 +622,7 @@ footer .autoria p {
   }
 } 
 
-@media (min-width: 700px) {
+@media (min-width: 650px) {
   .singles > ul:first-child{
     font-family: 'Alte-Haas-Grotesk-Bold';
     text-transform: uppercase;
@@ -580,6 +708,7 @@ footer .autoria p {
 
 button {
   background-color: var(--contraste-color);
+  transition: background-color 1s ease-out;
   color: var(--texto-color);
   padding: 10px 20px 10px 20px;
   border: none;
