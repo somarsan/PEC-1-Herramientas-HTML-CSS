@@ -115,11 +115,9 @@ a:hover {
   width: 100%;
 }
 
-.videos #player {
+.fachada {
   display:block;
   margin: auto;
-  border: 0;
-  max-width: 100%;
 }
 
 .fuente {
