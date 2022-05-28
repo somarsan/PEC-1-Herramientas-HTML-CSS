@@ -139,7 +139,7 @@ footer {
 
 footer .logo {
   width: 40px;
-  height: auto;
+  height: 40px;
 }
 
 footer ul {
@@ -705,7 +705,7 @@ svg .teta3:hover{
   padding-bottom: 30px;
 }
 
-button {
+.boton {
   background-color: var(--contraste-color);
   transition: background-color 1s ease-out;
   color: var(--texto-color);
@@ -716,7 +716,7 @@ button {
   font-size: 1.2rem;
 }
 
-button:hover{
+.boton:hover{
   background-color: var(--texto-color);
   border-color:var(--texto-color);
   color: var(--texto-color-secundario);
