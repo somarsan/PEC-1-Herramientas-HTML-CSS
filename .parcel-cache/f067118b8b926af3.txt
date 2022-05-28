@@ -2723,7 +2723,7 @@
 133/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2021/StringIndexOf.js1647383555582176900 0
 122/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/ansi-styles/index.d.ts1647369665488505500 0
 135/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/tailwindcss/src/util/negateValue.js1649359931686860700 0
-115/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/perra-480.bf1d16a9.jpeg1653753433595278800 0
+115/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/perra-480.bf1d16a9.jpeg1653755264566859200 0
 150/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/transformer-babel/lib/remapAstLocations.js1647369667711140400 0
 118/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/ansi-regex/license1651334075738515900 0
 119/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/merge2/package.json1649359929985548600 0
@@ -2822,7 +2822,7 @@
 128/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2020/ToBigInt.js1647383555614706200 0
 131/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/regions/NG.js1647798276415586000 0
 125/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/acorn/dist/acorn.mjs.d.ts1647369669121405700 0
-128/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-perra-1-1920.6c5dada3.webp1653753434759924900 0
+128/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-perra-1-1920.6c5dada3.webp1653755263425916400 0
 120/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/acorn/dist/acorn.mjs1647369669084034800 0
 148/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/lib/requests/ParcelConfigRequest.js1647369670531321700 0
 112/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/browserslist1647798274853766300 1
@@ -3057,7 +3057,7 @@
 134/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/postcss-load-config/src/options.js1649359930357120600 0
 125/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@swc/helpers/lib/index.js1647369669583154800 0
 120/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@swc/helpers/.vscode1647369665137925000 1
-122/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/too-many-drugs.41b5f3dd.js.map1653753435586256700 0
+122/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/too-many-drugs.41b5f3dd.js.map1653755266864930000 0
 138/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2021/CodePointsToString.js1647383555267050000 0
 112/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@swc/helpers1647369669594641600 1
 104/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@swc1647369659501535400 1
@@ -3381,7 +3381,7 @@
 127/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/agents.js1647798275220351700 0
 129/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/utils/src/debounce.js1647369666150504800 0
 146/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@swc/helpers/src/_object_without_properties.js1647369670021605000 0
-134/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-toomanydrugs-2-480.d5d3340a.webp1653753434759924900 0
+134/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-toomanydrugs-2-480.d5d3340a.webp1653755265962871000 0
 158/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/transformer-js/parcel-swc.linux-arm-gnueabihf.node1647369671872095000 0
 140/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2021/StringGetOwnProperty.js1647383555582176900 0
 135/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2020/BigInt/lessThan.js1647383555480700100 0
@@ -3484,7 +3484,7 @@
 148/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/postcss-merge-longhand/types/lib/decl/index.d.ts1647369669533044100 0
 118/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/delegates/index.js1651334076040291900 0
 131/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/utils/src/getRootDir.js1647369668369413400 0
-127/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-perra-1-480.6d0cdba5.webp1653753431583835600 0
+127/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-perra-1-480.6d0cdba5.webp1653755263335185400 0
 121/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/nan/doc/persistent.md1647369669585883400 0
 156/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/runtime-react-refresh/lib/ReactRefreshRuntime.js1647369665247682600 0
 141/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2020/IsNoTearConfiguration.js1647383555447055000 0
@@ -3522,7 +3522,7 @@
 130/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/normalize-package-data/AUTHORS1647383554607127600 0
 133/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/test/fixtures/parcel1647369670842813800 1
 138/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/test/fixtures/module-a.js1647369670371642900 0
-135/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-toomanydrugs-2-1920.96eb1daf.webp1653753433560467000 0
+135/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-toomanydrugs-2-1920.96eb1daf.webp1653755264535598500 0
 127/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/utils/src/schema.js1647369670069081200 0
 151/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/test/fixtures/main-global/package.json1647369670827474400 0
 170/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/test/fixtures/invalid-target-source-not-file/package.json1647369670791671900 0
@@ -3627,7 +3627,7 @@
 165/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/test/fixtures/library-custom-scopehoist/package.json1647369670795716400 0
 166/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-alias1647369670587967700 1
 124/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/packager-raw/src1647369665371402900 1
-132/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/rigoberta-presentacion-480.df87fc44.jpeg1653753434781573000 0
+132/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/rigoberta-presentacion-480.df87fc44.jpeg1653755265987014200 0
 135/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2020/thisBigIntValue.js1647383555604252000 0
 153/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/test/fixtures/config/subfolder/.parcelrc1647369668976987200 0
 116/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/is-bigint/.nycrc1647383554341565800 0
@@ -3637,7 +3637,7 @@
 161/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/test/fixtures/common-targets-ignore/package.json1647369670741100500 0
 151/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/posthtml/node_modules/posthtml-parser/dist/index.js1647369665393627500 0
 143/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/utils/test/input/config/config.json1647369670192513200 0
-129/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/rigoberta-concierto-800.acb7c418.jpeg1653753433595278800 0
+129/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/rigoberta-concierto-800.acb7c418.jpeg1653755264566859200 0
 118/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/fastq/test/test.js1649359930384079700 0
 148/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/test/fixtures/common-targets-ignore1647369670740224000 1
 138/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/npm-run-all/node_modules/chalk/license1647383554341565800 0
@@ -3667,7 +3667,7 @@
 124/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/v8-compile-cache/LICENSE1647369664990156700 0
 157/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/optimizer-image/parcel-image.linux-arm64-gnu.node1647369670604082200 0
 126/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/binary-extensions/index.js1649359929594383000 0
-122/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/favicon-rigoberta.abf6740d.ico1653753431583835600 0
+122/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/favicon-rigoberta.abf6740d.ico1653755263335185400 0
 133/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/ime.js1647798276247517400 0
 133/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2018/thisTimeValue.js1647383555614706200 0
 146/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/chokidar/node_modules/glob-parent/CHANGELOG.md1649359930334998000 0
@@ -3706,7 +3706,7 @@
 126/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/graph/src/types.js1647369668950954900 0
 141/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/src/requests/EntryRequest.js1647369670069542900 0
 138/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/lazyload.js1647798276313849900 0
-91/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist1653753435636548400 1
+91/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist1653755266912608100 1
 135/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/svgo/plugins/removeScriptElement.js1647369669793505600 0
 122/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/define-properties/test1647383554735454300 1
 134/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/src/public/Symbols.js1647369670628065800 0
@@ -3725,7 +3725,7 @@
 145/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/src/public/MutableBundleGraph.js1647369670385291700 0
 145/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/hash/parcel-hash.linux-arm64-gnu.node1647369669598885800 0
 112/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/pify/license1647383554638200600 0
-113/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/perra.f56987d2.js.map1653753435586256700 0
+113/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/perra.f56987d2.js.map1653755266864930000 0
 112/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/svgo/LICENSE1647369664992037800 0
 126/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@swc/helpers/lib/_throw.js1647369669530780600 0
 122/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/concat-map/.travis.yml1647383554372809300 0
@@ -3926,7 +3926,7 @@
 138/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/diagnostic/lib/diagnostic.d.ts1647369665769067800 0
 138/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/css-tree/lib/syntax/node/IdSelector.js1647369670083444700 0
 119/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/is-symbol/README.md1647383554704195700 0
-131/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/Alte-Haas-Grotesk-Bold.ttf.1cc507e6.eot1653753433560467000 0
+131/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/Alte-Haas-Grotesk-Bold.ttf.1cc507e6.eot1653755263335185400 0
 146/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/string.prototype.padend/test/implementation.js1647383554751061600 0
 117/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/glob/package.json1647383554529021900 0
 110/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/semver/bin1647369665051118200 1
@@ -3945,7 +3945,7 @@
 153/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/comparedocumentposition.js1647798275539585600 0
 125/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/postcss-svgo/package.json1647369665458502300 0
 140/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@nodelib/fs.scandir/out/adapters/fs.d.ts1649359931030764500 0
-121/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/presentacion.3020e626.css.map1653753435586256700 0
+121/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/presentacion.3020e626.css.map1653755266864930000 0
 130/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/lib/AssetGraph.js1647369669242439600 0
 111/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/xxhash-wasm1647369666052020700 1
 132/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/npm-run-all/lib/create-header.js1647383555125972100 0
@@ -4028,7 +4028,7 @@
 149/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/input-file-multiple.js1647798276263383300 0
 137/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/autoprefixer/lib/hacks/break-props.js1647798274855719500 0
 159/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mdb_drop.c1647369669601494700 0
-109/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/presentacion.html1653753435586256700 0
+109/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/presentacion.html1653755266864930000 0
 161/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/test/fixtures/config-extends-not-found/.parcelrc1647369665385456100 0
 140/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@babel/highlight/node_modules/color-name1647369665513753000 1
 176/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/@scope/pkg/package.json1647369670571323800 0
@@ -4040,7 +4040,7 @@
 149/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@babel/highlight/node_modules/ansi-styles/license1647369665379242400 0
 129/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@babel/highlight/node_modules1647369659506548000 1
 145/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/transformer-css/src/CSSTransformer.js1647369665495343200 0
-133/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/rigoberta-portada-home-1920.c7ee5cbb.jpeg1653753434781573000 0
+133/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/rigoberta-portada-home-1920.c7ee5cbb.jpeg1653755265987014200 0
 143/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/iframe-srcdoc.js1647798276245522300 0
 127/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/tailwindcss/lib/util/log.js1649359931657209400 0
 132/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@nodelib/fs.scandir/package.json1649359930647380500 0
@@ -4136,7 +4136,7 @@
 133/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/string.prototype.padend/.eslintrc1647383554638200600 0
 150/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/runtime-js/lib/helpers/worker/js-loader.js1647369669122943900 0
 106/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@babel1647369659502540300 1
-132/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/rigoberta-portada-home-480.a83fecb3.jpeg1653753433595278800 0
+132/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/rigoberta-portada-home-480.a83fecb3.jpeg1653755264566859200 0
 138/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@nodelib/fs.scandir/out/utils/index.js1649359930548649700 0
 119/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/is-string/.eslintrc1647383554341565800 0
 139/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/classlist.js1647798275514417500 0
@@ -4207,20 +4207,20 @@
 127/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/balanced-match/package.json1647383554294702900 0
 119/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/braces/package.json1649359929859180800 0
 128/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2017/MakeTime.js1647383555496320200 0
-109/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/index.03226153.js1653753435586256700 0
+109/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/index.03226153.js1653755266864930000 0
 114/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/logger1647369665568514500 1
-102/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/index.html1653753435586256700 0
+102/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/index.html1653755266864930000 0
 123/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/fill-range/package.json1649359929948896500 0
 132/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/resolve/test/dotdot/abc/index.js1647383555207331500 0
 127/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/watcher/binding.gyp1647369668903495800 0
 136/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2021/IteratorComplete.js1647383555464859000 0
-134/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-toomanydrugs-1-480.a1b90bf7.webp1653753434759924900 0
+134/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-toomanydrugs-1-480.a1b90bf7.webp1653755265674750100 0
 125/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/css-select/lib/compile.js1647369665593906700 0
 118/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/source-map1647369670634244000 1
 121/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/acorn/dist/acorn.d.ts1647369669111819800 0
 128/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2017/MakeDate.js1647383555480700100 0
 136/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/mdn-data/api/inheritance.schema.json1647369668363429800 0
-130/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/rigoberta-concierto-1200.89525ee9.jpeg1653753434781573000 0
+130/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/rigoberta-concierto-1200.89525ee9.jpeg1653755265987014200 0
 162/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/bl/node_modules/readable-stream/lib/internal/streams/stream.js1651334086719184800 0
 129/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/abortcontroller-polyfill/dist1647369667511818600 1
 155/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/test/fixtures/invalid-engines/package.json1647369670781455800 0
@@ -4255,7 +4255,7 @@
 153/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/abortcontroller-polyfill/dist/polyfill-patch-fetch.js1647369666180563100 0
 111/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/buffer-from1647369665241725100 1
 108/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/boolbase1647369665136216300 1
-129/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/rigoberta-concierto-480.cccc2fe1.jpeg1653753434781573000 0
+129/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/rigoberta-concierto-480.cccc2fe1.jpeg1653755265987014200 0
 184/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-false/src/index.js1647369670200378400 0
 147/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/watcher/src/shared/BruteForceBackend.cc1647369665495343200 0
 156/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/test/fixtures/invalid-target-source-missing1647369670786570700 1
@@ -4309,7 +4309,7 @@
 153/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/transformer-postcss/lib/PostCSSTransformer.js1647369665804283200 0
 123/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/bundler-default1647369665687342700 1
 160/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/dom-serializer/node_modules/entities/lib/decode_codepoint.js1647369665260920000 0
-86/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto1653753431559090300 1
+86/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto1653755263315063600 1
 124/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@babel/highlight/LICENSE1647369665043669000 0
 142/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/currentcolor.js1647798275944283500 0
 127/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/node-gyp-build/package.json1647369665472843500 0
@@ -4324,7 +4324,7 @@
 173/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/source-not-symlinked1647369670647265200 1
 114/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/wrappy/LICENSE1647383554310325000 0
 128/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/css-select/lib/attributes.js1647369665549731700 0
-115/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/perra-850.563f5823.jpeg1653753434781573000 0
+115/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/perra-850.563f5823.jpeg1653755265987014200 0
 133/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/src/public/Config.js1647369669974125600 0
 121/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/import-fresh/index.js1647369665113826700 0
 147/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/src/requests/ParcelBuildRequest.js1647369670489355500 0
@@ -4343,7 +4343,7 @@
 140/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2020/BigInt/sameValueZero.js1647383555566550400 0
 137/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/src/public/Dependency.js1647369670014506100 0
 128/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/acorn-walk/dist/walk.mjs.map1649359930496334700 0
-104/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/fuentes.html1653753435586256700 0
+104/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/fuentes.html1653755266864930000 0
 125/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/domhandler/lib/index.d.ts1647369665848272100 0
 156/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/msgpackr-extract/prebuilds/win32-x64/electron.abi98.node1647369669558739700 0
 138/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/bloburls.js1647798275420329900 0
@@ -4408,12 +4408,12 @@
 121/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/css-what/lib/index.js1647369665233256800 0
 150/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@babel/highlight/node_modules/ansi-styles/index.js1647369665251436700 0
 145/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@swc/helpers/src/_class_private_method_set.js1647369669798231300 0
-115/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/perra-200.4879491b.jpeg1653753433595278800 0
+115/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/perra-200.4879491b.jpeg1653755264566859200 0
 144/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/sharp/node_modules/semver/functions/parse.js1651334086571627500 0
 114/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/colord/plugins1647369669254915000 1
 144/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/tailwindcss/src/lib/getModuleDependencies.js1649359931570521200 0
 124/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/lazysizes/lazysizes.d.ts1649007685175698100 0
-131/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/Alte-Haas-Grotesk-Bold.ttf.8cbe52ab.svg1653753435322573500 0
+131/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/Alte-Haas-Grotesk-Bold.ttf.8cbe52ab.svg1653755266540182500 0
 150/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/node-abi/node_modules/semver/internal/constants.js1651334084988943200 0
 112/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/core-util-is1651334075440035300 1
 129/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2020/GetMethod.js1647383555365859300 0
@@ -4437,7 +4437,7 @@
 134/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/packager-js/lib/helpers.js1647369666219991100 0
 162/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/test/fixtures/custom-targets-distdir/package.json1647369670753071700 0
 147/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/postcss-normalize-display-values/src/lib/map.js1647369665403544200 0
-114/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/index.97147f0b.css.map1653753435586256700 0
+114/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/index.97147f0b.css.map1653755266864930000 0
 136/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/package-manager/src/types.js1647369669659107800 0
 129/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2020/ToBoolean.js1647383555614706200 0
 127/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2021/ToUint8.js1647383555665879700 0
@@ -4475,7 +4475,7 @@
 125/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/package.json1647369670736771000 0
 138/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/packager-js/src/dev-prelude.js1647369665565495500 0
 126/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/workers/index.d.ts1647369669550750600 0
-111/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/too-many-drugs.html1653753435586256700 0
+111/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/too-many-drugs.html1653755266864930000 0
 145/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@swc/helpers/lib/_async_generator_delegate.js1647369665731611700 0
 131/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/css-tree/lib/syntax/node/Raw.js1647369670518588000 0
 126/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@nodelib/fs.walk/out/types1649359931130609800 1
@@ -4519,16 +4519,16 @@
 143/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/fs-search/fs-search.darwin-x64.node1647369669084034800 0
 126/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/css-tree/lib/syntax/pseudo1647369670538497800 1
 161/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js1647369665370239900 0
-108/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/discografia.html1653753435586256700 0
+108/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/discografia.html1653755266864930000 0
 144/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/input-datetime.js1647798276259393900 0
 143/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/css-tree/lib/definition-syntax/tokenizer.js1647369670557406200 0
 116/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/json5/lib/cli.js1647369665112829900 0
 128/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@swc/helpers/lib/_extends.js1647369668994069800 0
 131/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/fast-glob/out/readers/reader.js1649359931144183200 0
-127/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-perra-2-480.82b588e9.webp1653753431583835600 0
+127/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-perra-2-480.82b588e9.webp1653755264535598500 0
 134/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/tailwindcss/lib/util/hashConfig.js1649359931570521200 0
 174/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/aliased-file/index.js1647369669660838300 0
-135/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-toomanydrugs-1-1920.3efd09ad.webp1653753433560467000 0
+135/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-toomanydrugs-1-1920.3efd09ad.webp1653755264535598500 0
 140/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2016/CreateMethodProperty.js1647383555298295400 0
 118/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/lmdb/node-index.js1647369670638289600 0
 134/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/utils/test/urlJoin.test.js1647369670179558700 0
@@ -4586,7 +4586,7 @@
 142/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/utils/test/input/config/empty.json1647369670192513200 0
 149/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/source-map/dist/wasm-bindings-web.js.flow1647369665604684500 0
 124/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/is-number-object/.github1647383554719818700 1
-133/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/rigoberta-presentacion-1920.a4b075c2.jpeg1653753433595278800 0
+133/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/rigoberta-presentacion-1920.a4b075c2.jpeg1653755264566859200 0
 129/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/postcss-normalize-charset/src1647369665067844100 1
 142/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/fast-glob/node_modules/glob-parent/LICENSE1649359929964847100 0
 131/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2021/ToPrimitive.js1647383555647360600 0
@@ -4646,7 +4646,7 @@
 137/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/gamepad.js1647798276188935200 0
 143/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/autoprefixer/lib/hacks/placeholder-shown.js1647798275224252200 0
 145/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@swc/helpers/lib/_class_private_method_get.js1647369667698590300 0
-118/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/too-many-drugs.41b5f3dd.js1653753435586256700 0
+118/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/too-many-drugs.41b5f3dd.js1653755266864930000 0
 123/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/sharp/node_modules/.bin1651334087266413200 1
 153/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/focusin-focusout-events.js1647798276130651200 0
 189/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-browser-exclude/package.json1647369670592454600 0
@@ -4890,7 +4890,7 @@
 119/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/postcss/lib/node.js1647369667636152800 0
 121/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/codeframe/lib1647369669882545300 1
 117/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/cache/src1647369666156339300 1
-122/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/toomanydrugs-480.368784e1.jpeg1653753434781573000 0
+122/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/toomanydrugs-480.368784e1.jpeg1653755265987014200 0
 123/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/hosted-git-info/LICENSE1647383554513400600 0
 131/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/regions/ML.js1647798276365513200 0
 151/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/transformer-react-refresh-wrap/package.json1647369666187076600 0
@@ -4979,7 +4979,7 @@
 130/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/xxhash-wasm/umd/xxhash-wasm.js1647369665511083600 0
 126/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/graph/src/index.js1647369668881611200 0
 137/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/colr-v1.js1647798275533212000 0
-122/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/toomanydrugs-872.15890d85.jpeg1653753433595278800 0
+122/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/toomanydrugs-872.15890d85.jpeg1653755264566859200 0
 150/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/css-overflow-overlay.js1647798275868443500 0
 114/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/buffer/LICENSE1651334075890088900 0
 147/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@babel/helper-validator-identifier/lib/index.js1647369665448780200 0
@@ -5088,7 +5088,7 @@
 131/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/regions/UZ.js1647798277001029600 0
 109/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/commander1647369665976268400 1
 131/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2020/MinFromTime.js1647383555496320200 0
-102/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/perra.html1653753435586256700 0
+102/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/perra.html1653755266864930000 0
 137/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@nodelib/fs.scandir/out/settings.d.ts1649359931089647500 0
 156/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/package-manager/test/fixtures/packages/peers-2.01647369669957083000 1
 170/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/foo/nested/baz.js1647369669077479900 0
@@ -5280,7 +5280,7 @@
 124/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/optimizer-terser1647369665439488900 1
 123/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/package-manager1647369670066021000 1
 114/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/merge2/LICENSE1649359929811312800 0
-122/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/toomanydrugs-200.a3e7befe.jpeg1653753434781573000 0
+122/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/toomanydrugs-200.a3e7befe.jpeg1653755265987014200 0
 134/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/package-manager/index.d.ts1647369670068084300 0
 114/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/bl/.travis.yml1651334078113866100 0
 127/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/runtime-browser-hmr1647369667432429700 1
@@ -5374,7 +5374,7 @@
 140/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/css-canvas.js1647798275590935600 0
 122/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/runtime-js/src1647369669329844300 1
 123/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/function-bind/.eslintrc1647383554704195700 0
-110/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/index.97147f0b.css1653753435586256700 0
+110/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/index.97147f0b.css1653755266864930000 0
 140/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2020/Number/sameValueZero.js1647383555566550400 0
 129/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/transformer-babel/lib1647369668250444600 1
 131/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/regions/MP.js1647798276374231800 0
@@ -5415,7 +5415,7 @@
 128/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/autoprefixer/lib/prefixes.js1647798275245690200 0
 127/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/postcss-load-config/LICENSE1649359929939464800 0
 136/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data/features/path2d.js1647798276457997700 0
-128/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-perra-2-1920.af74b6ea.webp1653753434759924900 0
+128/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/videoclip-perra-2-1920.af74b6ea.webp1653755265674750100 0
 142/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/chrome-trace-event/dist/trace-event.js.map1647369665338920000 0
 117/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/caniuse-lite/data1647798276109117400 1
 149/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/source-map/parcel_sourcemap_node/build.rs1647369670598108600 0
@@ -5571,7 +5571,7 @@
 110/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/strip-ansi1651334075961024400 1
 182/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-main-directory/nested1647369669893483600 1
 132/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/lib/ParcelConfig.js1647369670494480900 0
-109/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/perra.f56987d2.js1653753435586256700 0
+109/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/perra.f56987d2.js1653755266864930000 0
 126/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/runtime-js/LICENSE1647369665378032300 0
 135/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/utils/src/parseCSSImport.js1647369670001658500 0
 135/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/node-addon-api/package-support.json1647369668998183900 0
@@ -6296,7 +6296,7 @@
 132/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/transformer-html/LICENSE1647369665039160700 0
 114/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/arg/LICENSE.md1649359930154516900 0
 117/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/cache/lib1647369667438412800 1
-120/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/logo-rigoberta.2bff69c2.webp1653753432841233200 0
+120/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/logo-rigoberta.2bff69c2.webp1653755263425916400 0
 118/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/plugin/lib1647369665157645000 1
 141/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/chokidar/node_modules/glob-parent/LICENSE1649359929964847100 0
 142/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2021/FromPropertyDescriptor.js1647383555362047200 0
@@ -6309,7 +6309,7 @@
 119/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/watcher/src1647369669142695000 1
 150/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/runtime-js/lib/helpers/node/wasm-loader.js1647369669515327000 0
 118/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/dotenv/lib/main.js1647369665758133900 0
-113/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/index.03226153.js.map1653753435586256700 0
+113/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/index.03226153.js.map1653755266864930000 0
 138/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2021/CopyDataProperties.js1647383555267050000 0
 125/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/chokidar/types/index.d.ts1649359931005336700 0
 124/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/react-refresh/runtime.js1647369665956157800 0
@@ -7695,7 +7695,7 @@
 123/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2019/abs.js1647383555125972100 0
 146/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2019/AbstractEqualityComparison.js1647383555172841900 0
 131/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2019/ArrayCreate.js1647383555213688600 0
-117/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/presentacion.3020e626.css1653753435586256700 0
+117/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/presentacion.3020e626.css1653755266864930000 0
 138/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/es-abstract/2019/ArraySpeciesCreate.js1647383555213688600 0
 128/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/svgo/plugins/inlineStyles.js1647369669334374000 0
 125/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/css-select/lib/index.d.ts1647369669129340200 0
@@ -8320,7 +8320,7 @@
 145/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/fast-glob/out/providers/matchers/matcher.d.ts1649359931331600000 0
 130/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/lib/loadDotEnv.js1647369670347806800 0
 143/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/fast-glob/out/providers/matchers/matcher.js1649359931036417800 0
-132/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/Alte-Haas-Grotesk-Bold.ttf.4a0cfcc5.woff1653753431583835600 0
+132/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/dist/Alte-Haas-Grotesk-Bold.ttf.4a0cfcc5.woff1653755263335185400 0
 133/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/fast-glob/out/providers/stream.js1649359931169793900 0
 142/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/@parcel/core/lib/serializerCore.browser.js1647369670598108600 0
 136/mnt/c/Users/sonia/OneDrive/Documentos/Máster UOC/Herramientas HTML y CSS/Mi proyecto/node_modules/fast-glob/out/providers/transformers1649359931304641800 1
