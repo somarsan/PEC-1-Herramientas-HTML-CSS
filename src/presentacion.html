@@ -13,6 +13,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="Shortcut Icon" href="img/favicon-rigoberta.ico" type="image/x-icon">
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="../node_modules/lite-youtube-embed/src/lite-yt-embed.css" />
     <script async src="https://kit.fontawesome.com/0a91dbd0a5.js" crossorigin="anonymous"></script>
     <script async src="js/lazysizes.min.js" async=""></script>
   </head>
@@ -35,12 +36,12 @@
     <main>
         <div class="contenedor_presentacion">
             <picture>
-                <source media="(max-width: 650px)" srcset="img/rigoberta-presentacion-480.jpg">
-                <source media="(min-width: 651px)" srcset="img/rigoberta-presentacion-1920.jpg">
-                <img src="img/rigoberta-presentacion-1920.jpg" alt="Foto en blanco y negro de Rigoberta">
+                <source media="(max-width: 650px)" srcset="img/rigoberta-presentacion-480.jpg" width="480" height="334">
+                <source media="(min-width: 651px)" srcset="img/rigoberta-presentacion-1920.jpg" width="1920" height="918">
+                <img src="img/rigoberta-presentacion-1920.jpg" alt="Foto en blanco y negro de Rigoberta" width="1920" height="918">
             </picture>
             <div class="copyright">
-                <p><i class="fa-regular fa-copyright"></i> Alba Obradors</p>
+                <p>© Alba Obradors</p>
             </div>
         </div>
         <div class="contenedor">
@@ -81,12 +82,13 @@
                      src="./img/rigoberta-concierto-480.jpg" class="lazyload" id="foto_concierto" 
                      alt="Rigoberta Bandini cantando en un concierto">
                 <div class="copyright">
-                    <p><i class="fa-regular fa-copyright"></i> Raquel Manzanares</p>
+                    <p>© Raquel Manzanares</p>
                 </div>
             </div>
             <p>El 10 de diciembre de 2021 fue anunciada como una de los 14 seleccionados para formar parte de la primera edición del Benidorm Fest con la canción <cite>Ay mamá</cite>, optando a representar a España en el Festival de la Canción de Eurovisión 2022.</p>
             <div class="videos">
-                <iframe width="560" height="315" data-src="https://www.youtube.com/embed/K_WqBxwAbJY" class="lazyload" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <lite-youtube videoid="K_WqBxwAbJY" playlabel="Play: Keynote (Google I/O '18)" class="fachada"></lite-youtube>
+                <script src="../node_modules/lite-youtube-embed/src/lite-yt-embed.js"></script>
             </div>
             <div class="fuente">
                 <p><strong><a href="fuentes.html">Fuente:</a></strong></p>

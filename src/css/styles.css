@@ -8,6 +8,7 @@
       url('../fonts/Alte-Haas-Grotesk-Bold.ttf.eot?#iefix') format('embedded-opentype'); 
   font-weight: normal;
   font-style: normal;
+  font-display: swap;
 }
 
 /* Variables de colores:  */
@@ -67,6 +68,8 @@ header {
 .titulo_web .logo {
   float:left;
   max-width: 100%;
+  width: 100%;
+  height: auto;
 }
 
 .titulo_web p {
@@ -112,7 +115,7 @@ a:hover {
   width: 100%;
 }
 
-.videos iframe {
+.videos #player {
   display:block;
   margin: auto;
   border: 0;
@@ -143,6 +146,7 @@ footer {
 
 footer .logo {
   width: 40px;
+  height: auto;
 }
 
 footer ul {
@@ -191,6 +195,7 @@ footer .autoria p {
 
   img {
     width: 100%;
+    height: auto;
   }
 
   .contenedor_footer{
@@ -402,6 +407,7 @@ footer .autoria p {
 @media (min-width: 650px) {
   #foto_concierto {
     width: 100%;
+    height: auto;
   }
 
   .contenedor_foto_concierto {
